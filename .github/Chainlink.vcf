@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Chainlink
+N;CHARSET=UTF-8:Chainlink;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Strathvale House\, 90;George Town;Grand Cayman;KY1-1102
+ ;Cayman Islands
+EMAIL:newsletter@chain.link
+ORG;CHARSET=UTF-8:Chainlink
+URL:http://chain.link
+END:VCARD
